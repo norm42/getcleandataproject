@@ -18,6 +18,9 @@ Signal.  In some cases the signal is a value, others a magnitude.
 
 Final File
 ---------------------------------------------------------
-The final file contains 15996 observations of 10 variables. The file is sorted by subject and activity.  
+The final file contains 15996 observations of 10 variables. The file is sorted by subject and activity. 
+
+There are two formats in the repository:  a csv file and a txt (tab delimited) file for the final tidy data set.
+
 
 
