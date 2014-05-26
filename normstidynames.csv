@@ -1,0 +1,87 @@
+ID,Acceleration Type,Device,Domain,Statistics,Signal,Axis,Motion
+tbodyacc.mean.x,Body,Accelerometer,Time,Mean,Value,X,Acceleration
+tbodyacc.mean.y,Body,Accelerometer,Time,Mean,Value,Y,Acceleration
+tbodyacc.mean.z,Body,Accelerometer,Time,Mean,Value,Z,Acceleration
+tbodyacc.std.x,Body,Accelerometer,Time,Std Dev,Value,X,Acceleration
+tbodyacc.std.y,Body,Accelerometer,Time,Std Dev,Value,Y,Acceleration
+tbodyacc.std.z,Body,Accelerometer,Time,Std Dev,Value,Z,Acceleration
+tgravityacc.mean.x,Gravity,Accelerometer,Time,Mean,Value,X,Acceleration
+tgravityacc.mean.y,Gravity,Accelerometer,Time,Mean,Value,Y,Acceleration
+tgravityacc.mean.z,Gravity,Accelerometer,Time,Mean,Value,Z,Acceleration
+tgravityacc.std.x,Gravity,Accelerometer,Time,Std Dev,Value,X,Acceleration
+tgravityacc.std.y,Gravity,Accelerometer,Time,Std Dev,Value,Y,Acceleration
+tgravityacc.std.z,Gravity,Accelerometer,Time,Std Dev,Value,Z,Acceleration
+tbodyaccjerk.mean.x,Body,Accelerometer,Time,Mean,Value,X,Jerk
+tbodyaccjerk.mean.y,Body,Accelerometer,Time,Mean,Value,Y,Jerk
+tbodyaccjerk.mean.z,Body,Accelerometer,Time,Mean,Value,Z,Jerk
+tbodyaccjerk.std.x,Body,Accelerometer,Time,Std Dev,Value,X,Jerk
+tbodyaccjerk.std.y,Body,Accelerometer,Time,Std Dev,Value,Y,Jerk
+tbodyaccjerk.std.z,Body,Accelerometer,Time,Std Dev,Value,Z,Jerk
+tbodygyro.mean.x,Body,Gyroscope,Time,Mean,Value,X,Acceleration
+tbodygyro.mean.y,Body,Gyroscope,Time,Mean,Value,Y,Acceleration
+tbodygyro.mean.z,Body,Gyroscope,Time,Mean,Value,Z,Acceleration
+tbodygyro.std.x,Body,Gyroscope,Time,Std Dev,Value,X,Acceleration
+tbodygyro.std.y,Body,Gyroscope,Time,Std Dev,Value,Y,Acceleration
+tbodygyro.std.z,Body,Gyroscope,Time,Std Dev,Value,Z,Acceleration
+tbodygyrojerk.mean.x,Body,Gyroscope,Time,Mean,Value,X,Jerk
+tbodygyrojerk.mean.y,Body,Gyroscope,Time,Mean,Value,Y,Jerk
+tbodygyrojerk.mean.z,Body,Gyroscope,Time,Mean,Value,Z,Jerk
+tbodygyrojerk.std.x,Body,Gyroscope,Time,Std Dev,Value,X,Jerk
+tbodygyrojerk.std.y,Body,Gyroscope,Time,Std Dev,Value,Y,Jerk
+tbodygyrojerk.std.z,Body,Gyroscope,Time,Std Dev,Value,Z,Jerk
+tbodyaccmag.mean,Body,Accelerometer,Time,Mean,Magnitude,3D,Acceleration
+tbodyaccmag.std,Body,Accelerometer,Time,Std Dev,Magnitude,3D,Acceleration
+tgravityaccmag.mean,Gravity,Accelerometer,Time,Mean,Magnitude,3D,Acceleration
+tgravityaccmag.std,Gravity,Accelerometer,Time,Std Dev,Magnitude,3D,Acceleration
+tbodyaccjerkmag.mean,Body,Accelerometer,Time,Mean,Magnitude,3D,Jerk
+tbodyaccjerkmag.std,Body,Accelerometer,Time,Std Dev,Magnitude,3D,Jerk
+tbodygyromag.mean,Body,Gyroscope,Time,Mean,Magnitude,3D,Acceleration
+tbodygyromag.std,Body,Gyroscope,Time,Std Dev,Magnitude,3D,Acceleration
+tbodygyrojerkmag.mean,Body,Gyroscope,Time,Mean,Magnitude,3D,Jerk
+tbodygyrojerkmag.std,Body,Gyroscope,Time,Std Dev,Magnitude,3D,Jerk
+fbodyacc.mean.x,Body,Accelerometer,Frequency,Mean,Value,X,Acceleration
+fbodyacc.mean.y,Body,Accelerometer,Frequency,Mean,Value,Y,Acceleration
+fbodyacc.mean.z,Body,Accelerometer,Frequency,Mean,Value,Z,Acceleration
+fbodyacc.std.x,Body,Accelerometer,Frequency,Std Dev,Value,X,Acceleration
+fbodyacc.std.y,Body,Accelerometer,Frequency,Std Dev,Value,Y,Acceleration
+fbodyacc.std.z,Body,Accelerometer,Frequency,Std Dev,Value,Z,Acceleration
+fbodyacc.meanfreq.x,Body,Accelerometer,Frequency,Mean,Value,X,Acceleration
+fbodyacc.meanfreq.y,Body,Accelerometer,Frequency,Mean,Value,Y,Acceleration
+fbodyacc.meanfreq.z,Body,Accelerometer,Frequency,Mean,Value,Z,Acceleration
+fbodyaccjerk.mean.x,Body,Accelerometer,Frequency,Mean,Value,X,Jerk
+fbodyaccjerk.mean.y,Body,Accelerometer,Frequency,Mean,Value,Y,Jerk
+fbodyaccjerk.mean.z,Body,Accelerometer,Frequency,Mean,Value,Z,Jerk
+fbodyaccjerk.std.x,Body,Accelerometer,Frequency,Std Dev,Value,X,Jerk
+fbodyaccjerk.std.y,Body,Accelerometer,Frequency,Std Dev,Value,Y,Jerk
+fbodyaccjerk.std.z,Body,Accelerometer,Frequency,Std Dev,Value,Z,Jerk
+fbodyaccjerk.meanfreq.x,Body,Accelerometer,Frequency,Mean,Value,X,Jerk
+fbodyaccjerk.meanfreq.y,Body,Accelerometer,Frequency,Mean,Value,Y,Jerk
+fbodyaccjerk.meanfreq.z,Body,Accelerometer,Frequency,Mean,Value,Z,Jerk
+fbodygyro.mean.x,Body,Gyroscope,Frequency,Mean,Value,X,Acceleration
+fbodygyro.mean.y,Body,Gyroscope,Frequency,Mean,Value,Y,Acceleration
+fbodygyro.mean.z,Body,Gyroscope,Frequency,Mean,Value,Z,Acceleration
+fbodygyro.std.x,Body,Gyroscope,Frequency,Std Dev,Value,X,Acceleration
+fbodygyro.std.y,Body,Gyroscope,Frequency,Std Dev,Value,Y,Acceleration
+fbodygyro.std.z,Body,Gyroscope,Frequency,Std Dev,Value,Z,Acceleration
+fbodygyro.meanfreq.x,Body,Gyroscope,Frequency,Mean,Value,X,Acceleration
+fbodygyro.meanfreq.y,Body,Gyroscope,Frequency,Mean,Value,Y,Acceleration
+fbodygyro.meanfreq.z,Body,Gyroscope,Frequency,Mean,Value,Z,Acceleration
+fbodyaccmag.mean,Body,Accelerometer,Frequency,Mean,Magnitude,3D,Acceleration
+fbodyaccmag.std,Body,Accelerometer,Frequency,Std Dev,Magnitude,3D,Acceleration
+fbodyaccmag.meanfreq,Body,Accelerometer,Frequency,Mean,Magnitude,3D,Acceleration
+fbodybodyaccjerkmag.mean,Body,Accelerometer,Frequency,Mean,Magnitude,3D,Jerk
+fbodybodyaccjerkmag.std,Body,Accelerometer,Frequency,Std Dev,Magnitude,3D,Jerk
+fbodybodyaccjerkmag.meanfreq,Body,Accelerometer,Frequency,Mean,Magnitude,3D,Jerk
+fbodybodygyromag.mean,Body,Gyroscope,Frequency,Mean,Magnitude,3D,Acceleration
+fbodybodygyromag.std,Body,Gyroscope,Frequency,Std Dev,Magnitude,3D,Acceleration
+fbodybodygyromag.meanfreq,Body,Gyroscope,Frequency,Mean,Magnitude,3D,Acceleration
+fbodybodygyrojerkmag.mean,Body,Gyroscope,Frequency,Mean,Magnitude,3D,Jerk
+fbodybodygyrojerkmag.std,Body,Gyroscope,Frequency,Std Dev,Magnitude,3D,Jerk
+fbodybodygyrojerkmag.meanfreq,Body,Gyroscope,Frequency,Mean,Magnitude,3D,Jerk
+angle.tbodyaccmean.gravity.,Body,Derived,Time,Mean,Value,3D,Acceleration
+angle.tbodyaccjerkmean..gravitymean.,Body,Derived,Time,Mean,Value,3D,Jerk
+angle.tbodygyromean.gravitymean.,Body,Derived,Time,Mean,Value,3D,Acceleration
+angle.tbodygyrojerkmean.gravitymean.,Body,Derived,Time,Mean,Value,3D,Jerk
+angle.x.gravitymean.,Gravity,Derived,Time,Mean,Value,3D,Velocity
+angle.y.gravitymean.,Gravity,Derived,Time,Mean,Value,3D,Velocity
+angle.z.gravitymean.,Gravity,Derived,Time,Mean,Value,3D,Velocity
